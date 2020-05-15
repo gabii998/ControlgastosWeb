@@ -6,4 +6,4 @@ Mis gastos es una app para la organización y seguimiento de las finanzas person
 
 #### Acceso a historial
 
-### Manejo por categorías
+#### Manejo por categorías
